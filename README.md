@@ -31,3 +31,10 @@ php MyQ-cli.php status
 06:35:57 Request: status
 06:35:57 Status: door closed
 ```
+Disclaimer
+----------
+I'm not affiliated with Liftmaster Chamberlain MyQ in any way. They don't endorse this application. They own all the rights to Liftmaster Chamberlain MyQ (and all associated trademarks). 
+
+This software is provided as-is with no warranty whatsoever. 
+
+Liftmaster Chamberlain MyQ could do things to block this kind of behavior if they want, hopefully they do not. Also, if you cause problems (by sending lots of trash to the Liftmaster Chamberlain MyQ Decora servers or anything), you're on your own.
